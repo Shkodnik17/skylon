@@ -4,7 +4,7 @@ import time
 WIDTH = 770
 HEIGHT = 530
 mode = 'menu'
-heals = 3
+heals = 4
 rockets = []
 
 space = Actor('space')
